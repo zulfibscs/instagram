@@ -16,7 +16,7 @@ return Scaffold(
          Icon(Icons.add),
          Padding(
            padding: const EdgeInsets.all(15.0),
-           child: Icon(Icons.favorite),
+           child: Icon(Icons.delete),
          ),
          Icon(Icons.share),
        ],
