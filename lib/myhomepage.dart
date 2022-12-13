@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:instagram/account.dart';
-import 'package:instagram/reals.dart';
-import 'package:instagram/search.dart';
-import 'package:instagram/shop.dart';
-import 'home.dart';
+import 'package:instagram/util/account.dart';
+import 'package:instagram/pages/reals.dart';
+import 'package:instagram/pages/search.dart';
+import 'package:instagram/pages/shop.dart';
+import 'pages/home.dart';
 
 class MyHomePage extends StatefulWidget{
   @override
